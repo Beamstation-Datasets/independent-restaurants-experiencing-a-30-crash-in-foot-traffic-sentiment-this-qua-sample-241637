@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Washington
 
-> Free BeamStation sample export with 93 rows and masked direct-contact fields.
+> Free BeamStation sample export with 107 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `241637` |
 | Location | Washington |
 | Category | Food and Drink |
-| Full dataset size | 930 records |
-| Free sample size | 93 records (10.0%) |
-| Last export | 2026-04-09T20:08:48.952308+00:00 |
+| Full dataset size | 1,078 records |
+| Free sample size | 107 records (9.93%) |
+| Last export | 2026-04-17T00:06:02.761365+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-241637/releases/download/sample-latest/beamstation_241637_food_and_drink-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
